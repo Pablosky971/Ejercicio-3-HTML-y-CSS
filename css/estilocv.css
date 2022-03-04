@@ -1,0 +1,40 @@
+h1{
+    color: grey;
+}
+
+h2 {
+    color: lawngreen
+}
+
+img.mifoto{
+
+    text-align: left;
+    max-width: 400px;
+    max-height: 400px;
+    left: 500px;
+
+}
+img.linkedin{
+
+    text-align: left;
+    max-width: 50px;
+    max-height: 50px;
+    left: 0px;
+
+}
+
+img.infojobs{
+
+    text-align: left;
+    max-width: 50px;
+    max-height: 50px;
+    left: 0px;
+
+}
+
+section {
+
+ 
+    
+
+}
